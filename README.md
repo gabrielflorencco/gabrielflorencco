@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/gabrielflorencco/gabrielflorencco/main/assets/header.svg" alt="Gabriel Florenço — Software Developer" width="100%" />
-</p>
-
 <h1 align="center">Gabriel Florenço</h1>
 <p align="center">
   <strong>Software Developer</strong> · Java & Spring Boot · AI Automation with n8n & Typebot
