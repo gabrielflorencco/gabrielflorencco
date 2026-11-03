@@ -65,9 +65,3 @@ Background in **Clean Architecture**, **Domain-Driven Design**, and **Test-Drive
 - **LinkedIn**: <a href="https://linkedin.com/in/gabrielflorencco">linkedin.com/in/gabrielflorencco</a>
 - **GitHub**: <a href="https://github.com/gabrielflorencco">github.com/gabrielflorencco</a>
 - **Location**: Santos, SP, Brazil
-
----
-
-<p align="center">
-  <sub>Built with care — <a href="https://github.com/gabrielflorencco/gabrielflorencco">view source</a></sub>
-</p>
