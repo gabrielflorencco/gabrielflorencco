@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:gabrielflorencco@pm.me"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:florenco@pm.me"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://linkedin.com/in/gabrielflorencco"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/gabrielflorencco"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
@@ -57,7 +57,7 @@ Background in **Clean Architecture**, **Domain-Driven Design**, and **Test-Drive
 
 ## Contact
 
-- **Email**: <a href="mailto:gabrielflorencco@pm.me">gabrielflorencco@pm.me</a>
+- **Email**: <a href="mailto:florenco@pm.me">florenco@pm.me</a>
 - **LinkedIn**: <a href="https://linkedin.com/in/gabrielflorencco">linkedin.com/in/gabrielflorencco</a>
 - **GitHub**: <a href="https://github.com/gabrielflorencco">github.com/gabrielflorencco</a>
 - **Location**: Santos, SP, Brazil
