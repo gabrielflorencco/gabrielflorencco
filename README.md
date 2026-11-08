@@ -1,4 +1,4 @@
-c<picture>
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabrielflorencco/gabrielflorencco/assets/name.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabrielflorencco/gabrielflorencco/assets/name.svg">
   <img alt="Gabriel Florenço" src="https://raw.githubusercontent.com/gabrielflorencco/gabrielflorencco/assets/name.svg">
@@ -10,7 +10,7 @@ c<picture>
 
 <p align="center">
   <a href="mailto:florenco@pm.me">
-    <img src="https://img.shields.io/badge/Email-D149FF?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-D93025?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://www.linkedin.com/in/gabrielflorencco">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -30,19 +30,27 @@ Currently studying Systems Analysis and Development at FATEC Baixada Santista (2
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,cs,python&perline=5" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=java,cs,python&perline=5" alt="Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=spring,dotnet,fastapi&perline=4" alt="Backend Development" />
+  <img src="https://skillicons.dev/icons?i=spring,dotnet,fastapi&perline=4" alt="Backend Development"/>
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,git,aws,linux,maven&perline=5" alt="DevOps & Tools" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap&perline=4" alt="Frontend Development"/>
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=n8n,typebot&perline=3" alt="AI & Automation" />
+  <img src="https://skillicons.dev/icons?i=postgresql,mariaDB&perline=3" alt="Databases"/>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,git,github,actions,linux,maven,gradle&perline=6" alt="DevOps & Tools"/>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=n8n,typebot,llm&perline=3" alt="AI & Automation"/>
 </p>
 
 ---
@@ -64,7 +72,7 @@ Currently studying Systems Analysis and Development at FATEC Baixada Santista (2
 ---
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabrielflorencco/gabrielflorencco/output/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabrielflorencco/gabrielflorencco/output/snake.svg">
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/gabrielflorencco/gabrielflorencco/output/snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GabrielaZanetti/animacaoCobrinha/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GabrielaZanetti/animacaoCobrinha/output/snake.svg">
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/GabrielaZanetti/animacaoCobrinha/output/snake.svg">
 </picture>
