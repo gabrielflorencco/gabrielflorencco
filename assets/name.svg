@@ -1,14 +1,112 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="400" height="100" viewBox="0 0 400 100" fill="none">
-  <!-- Background gradient -->
+
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="900"
+     height="180"
+     viewBox="0 0 900 180"
+     fill="none">
+
   <defs>
-    <linearGradient id="grad" x1="0" y1="0" x2="0" y2="100" spreadMethod="pad">
-      <stop offset="0%" stop-color="#f8f9fa"/>
-      <stop offset="100%" stop-color="#e9ecef"/>
+    <!-- Background -->
+    <linearGradient id="background" x1="0" y1="0" x2="900" y2="180">
+      <stop offset="0%" stop-color="#F8FAFC"/>
+      <stop offset="55%" stop-color="#EEF2F7"/>
+      <stop offset="100%" stop-color="#E2E8F0"/>
     </linearGradient>
+
+    <!-- Accent gradient -->
+    <linearGradient id="accent" x1="100" y1="0" x2="800" y2="180">
+      <stop offset="0%" stop-color="#2563EB"/>
+      <stop offset="50%" stop-color="#6366F1"/>
+      <stop offset="100%" stop-color="#06B6D4"/>
+    </linearGradient>
+
+    <!-- Decorative glow -->
+    <radialGradient id="glow">
+      <stop offset="0%" stop-color="#60A5FA" stop-opacity=".20"/>
+      <stop offset="100%" stop-color="#60A5FA" stop-opacity="0"/>
+    </radialGradient>
+
+    <!-- Subtle grid -->
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" stroke="#94A3B8" stroke-opacity=".12" stroke-width="1"/>
+    </pattern>
+
+    <style>
+      .name {
+        font-family: "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+        font-size: 62px;
+        font-weight: 750;
+        letter-spacing: -2px;
+        fill: #172033;
+      }
+
+      .subtitle {
+        font-family: "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+        font-size: 14px;
+        font-weight: 600;
+        letter-spacing: 4px;
+        fill: #64748B;
+      }
+
+      @media (prefers-color-scheme: dark) {
+        .name {
+          fill: #F1F5F9;
+        }
+
+        .subtitle {
+          fill: #94A3B8;
+        }
+      }
+    </style>
   </defs>
-  <rect width="400" height="100" fill="url(#grad)"/>
-  <!-- Decorative left line -->
-  <line x1="0" y1="0" x2="0" y2="100" stroke="#dee2e6" stroke-width="3"/>
-  <!-- Name text -->
-  <text x="200" y="70" text-anchor="middle" font-family="SF Pro Display, system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif" font-size="52" font-weight="700" fill="#1a1a1e">Gabriel Florenço</text>
+
+  <!-- Main background -->
+  <rect width="900" height="180" rx="18" fill="url(#background)"/>
+
+  <!-- Dark mode background -->
+  <rect width="900" height="180" rx="18" fill="#0F172A"
+        opacity="0" class="dark-background"/>
+
+  <style>
+    @media (prefers-color-scheme: dark) {
+      .dark-background { opacity: 1; }
+    }
+  </style>
+
+  <!-- Decorative grid -->
+  <rect width="900" height="180" rx="18" fill="url(#grid)"/>
+
+  <!-- Ambient light -->
+  <circle cx="760" cy="30" r="190" fill="url(#glow)"/>
+  <circle cx="120" cy="170" r="140" fill="url(#glow)"/>
+
+  <!-- Decorative geometric elements -->
+  <path d="M720 0L900 180" stroke="url(#accent)"
+        stroke-opacity=".16" stroke-width="2"/>
+  <path d="M790 0L900 110" stroke="url(#accent)"
+        stroke-opacity=".12" stroke-width="2"/>
+
+  <circle cx="790" cy="48" r="4" fill="#3B82F6" opacity=".7"/>
+  <circle cx="818" cy="76" r="3" fill="#6366F1" opacity=".6"/>
+  <circle cx="845" cy="103" r="2" fill="#06B6D4" opacity=".7"/>
+
+  <!-- Accent line -->
+  <rect x="112" y="48" width="5" height="84" rx="2.5"
+        fill="url(#accent)"/>
+
+  <!-- Name -->
+  <text x="450" y="105"
+        text-anchor="middle"
+        class="name"
+        textLength="680"
+        lengthAdjust="spacingAndGlyphs">Gabriel Florenço</text>
+
+  <!-- Bottom accent -->
+  <rect x="390" y="158" width="120" height="3" rx="1.5"
+        fill="url(#accent)" opacity=".8"/>
+
+  <!-- Border -->
+  <rect x=".75" y=".75" width="898.5" height="178.5"
+        rx="17.25" stroke="#94A3B8" stroke-opacity=".22"
+        stroke-width="1.5"/>
 </svg>
