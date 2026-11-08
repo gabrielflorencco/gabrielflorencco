@@ -8,10 +8,10 @@
 
 <p align="center">
   <a href="mailto:florenco@pm.me">
-    <img src="https://img.shields.io/badge/Email-D93025?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-D93025?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://www.linkedin.com/in/gabrielflorencco">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=data:image%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTIwLjQ1IDAuNDUySDMuNTVjLTEuNzEgMC0zLjEgMS4zOS0zLjEgMy4xdjE3LjljMCAxLjcxIDEuMzkgMy4xIDMuMSAzLjFoMTYuOWMxLjcxIDAgMy4xLTEuMzkgMy4xLTMuMVYzLjU1YzAtMS43MS0xLjM5LTMuMS0zLjEtMy4xek02Ljg1IDE5LjVIMy43NVY5LjQ1aDMuMVYxOS41ek01LjMgNy45NWEyLjA1IDIuMDUgMCAxIDEgMC00LjEgMi4wNSAyLjA1IDAgMCAxIDAgNC4xek0yMC4yNSAxOS41aC0zLjFWMTQuNGMwLTEuMjItLjAyLTIuNzktMS43LTIuNzktMS43IDAtMS45NiAxLjMyLTEuOTYgMi43MVYxOS41aC0zLjFWOS40NWgzVjExaC4wNGMuNDItLjggMS40NS0xLjY0IDMuMDItMS42NCAzLjIzIDAgMy44MyAyLjEyIDMuODMgNC44N1YxOS41eiIvPjwvc3ZnPg%3D%3D" alt="LinkedIn"/>
   </a>
 </p>
 
@@ -49,7 +49,7 @@ Currently studying Systems Analysis and Development at FATEC Baixada Santista (2
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" alt="MariaDB"/>
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB"/>
 </p>
 
 ### DevOps & Tools
@@ -61,9 +61,9 @@ Currently studying Systems Analysis and Development at FATEC Baixada Santista (2
 ### AI & Automation
 
 <p align="left">
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n"/>
-  <img src="https://img.shields.io/badge/Typebot-0042DA?style=flat-square" alt="Typebot"/>
-  <img src="https://img.shields.io/badge/LLM_APIs-AI_Automation-6B7280?style=flat-square" alt="LLM APIs"/>
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
+  <img src="https://img.shields.io/badge/Typebot-0042DA?style=for-the-badge" alt="Typebot"/>
+  <img src="https://img.shields.io/badge/LLM_APIs-AI_Automation-6B7280?style=for-the-badge" alt="LLM APIs"/>
 </p>
 
 ---
