@@ -64,7 +64,7 @@ Currently studying Systems Analysis and Development at FATEC Baixada Santista (2
 ---
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GabrielaZanetti/animacaoCobrinha/output/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GabrielaZanetti/animacaoCobrinha/output.svg">
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/GabrielaZanetti/animacaoCobrinha/output.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabrielflorencco/gabrielflorencco/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabrielflorencco/gabrielflorencco/output.svg">
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/gabrielflorencco/gabrielflorencco/output.svg">
 </picture>
