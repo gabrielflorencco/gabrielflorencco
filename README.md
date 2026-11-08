@@ -1,4 +1,4 @@
-<picture>
+c<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabrielflorencco/gabrielflorencco/assets/name.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabrielflorencco/gabrielflorencco/assets/name.svg">
   <img alt="Gabriel Florenço" src="https://raw.githubusercontent.com/gabrielflorencco/gabrielflorencco/assets/name.svg">
@@ -65,6 +65,6 @@ Currently studying Systems Analysis and Development at FATEC Baixada Santista (2
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabrielflorencco/gabrielflorencco/output/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabrielflorencco/gabrielflorencco/output.svg">
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/gabrielflorencco/gabrielflorencco/output.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabrielflorencco/gabrielflorencco/output/snake.svg">
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/gabrielflorencco/gabrielflorencco/output/snake.svg">
 </picture>
